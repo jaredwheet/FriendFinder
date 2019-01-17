@@ -2,7 +2,7 @@ var router = require("express").Router();
 var friends = require("../data/friends");
 
 
-router.get("/api/friends", function (req, res) {
+router.get("/friends", function (req, res) {
     return res.json(friends);
 });
 
