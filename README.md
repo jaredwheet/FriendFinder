@@ -1,4 +1,4 @@
-# SeinfeldFriendFinder
+# Friend Finder!
 FriendFinder 
 
 Purpose:
